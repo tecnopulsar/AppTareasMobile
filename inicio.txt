@@ -1,0 +1,30 @@
+/****************************************************************
+/ BACKEND  
+/****************************************************************
+* npm init --yes
+* npm i express mysql2 morgan cors swagger-jsdoc swagger-ui-express dotenv
+*
+* npm i nodemon @babel/core @babel/cli @babel/preset-env @babel/node -D
+* 
+* 
+* // deploy
+* npm run build
+* node dist/index.js
+* 
+* // "start": "node dist"
+* npm start
+*
+/****************************************************************
+
+/****************************************************************
+/ FRONTEND
+/****************************************************************
+* Expo
+* npx create-expo-app --template
+* 
+* React Navigation
+* npm install @react-navigation/native
+* npx expo install react-native-screens react-native-safe-area-context
+* Forma de navegar la app
+* npm install @react-navigation/native-stack
+/****************************************************************
